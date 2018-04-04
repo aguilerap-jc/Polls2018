@@ -1,0 +1,49 @@
+{
+	"lib":{
+		"Twitter":"Folder",
+		"FaceBook":"Folder",
+		"GooglePlus":"Folder",
+		"Google":"Folder"
+	},
+	"DB":{
+		"Candidatos":{
+			"AM":
+			{
+				"Twitter":"Folder",
+				"FaceBook":"Folder",
+				"GooglePlus":"Folder",
+				"Google":"Folder"
+			},
+			"RA":
+			{
+				"Twitter":"Folder",
+				"FaceBook":"Folder",
+				"GooglePlus":"Folder",
+				"Google":"Folder"
+			},
+			"JM":
+			{
+				"Twitter":"Folder",
+				"FaceBook":"Folder",
+				"GooglePlus":"Folder",
+				"Google":"Folder"
+			},
+			"MZ":
+			{
+				"Twitter":"Folder",
+				"FaceBook":"Folder",
+				"GooglePlus":"Folder",
+				"Google":"Folder"
+			}
+		}
+
+	},
+	"ML":{
+
+	},
+	"files":{
+
+	},
+	"Structure.json":"File",
+	"Sinonimos.json":"File"
+}
